@@ -2,7 +2,7 @@
 
 I'm a self-taught Frontend Developer from India with a strong passion for creating beautiful and user-friendly web experiences. I specialize in HTML, CSS, JavaScript, React.js, and Tailwind CSS.
 
-💻 **Currently working on:** Improving UI/UX skills and building real-world web projects.  
+💻 **Currently working on:** Improving frontend skills and building real-world web projects.  
 📫 **Contact me:** bushraansari.0517@gmail.com  
 🌐 **Portfolio:** Coming soon!
 
